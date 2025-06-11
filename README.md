@@ -1,9 +1,9 @@
-# IPL Match Insights (2008–2019)
+# IPL Match Insights (2008–2017)
 
 This project explores IPL match data using pandas, uncovering trends in team performance, toss decisions, city hosting, and match outcomes.
 
 ## Dataset
-- Source: `matches.csv` (IPL matches from 2008 to 2019)
+- Source: `matches.csv` (IPL matches from 2008 to 2017)
 
 ## Exploratory Analysis Includes:
 - Filtering and cleaning Dataset
